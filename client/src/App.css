@@ -1,0 +1,27 @@
+.app {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.search {
+  padding: 10px;
+  font-size: 20px;
+  border: transparent;
+  outline: none;
+  margin: auto;
+  box-shadow: 0px 0.5px 0px 0 rgba(0, 0, 0, 0.2);
+}
+
+.list {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.list-item {
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #444;
+  font-weight: 300;
+}
